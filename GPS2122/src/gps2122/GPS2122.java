@@ -17,6 +17,9 @@ public class GPS2122 {
     public static void main(String[] args) {
         // TODO code application logic here
         //Branch 1, changed from NB
+
+        //New edit branch1
     }
+
     
 }
