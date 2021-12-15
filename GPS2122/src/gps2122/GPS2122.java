@@ -21,6 +21,9 @@ public class GPS2122 {
         // TODO code application logic here
         // New comment to main from NB
         //Branch 1, changed from NB
+
+        //New edit branch1
     }
+
     
 }
