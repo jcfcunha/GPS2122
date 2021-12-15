@@ -8,6 +8,9 @@ package gps2122;
 /**
  *
  * @author jcunha
+
+change on main from GK
+
  */
 public class GPS2122 {
 
